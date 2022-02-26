@@ -1,0 +1,184 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Brief remonstrance touching the pre-emption of tyn, and the coynages thereof.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77469</idno>
+            <idno type="STC">Wing B4641</idno>
+            <idno type="STC">Thomason E733_13</idno>
+            <idno type="STC">ESTC R206911</idno>
+            <idno type="EEBO-CITATION">99866002</idno>
+            <idno type="PROQUEST">99866002</idno>
+            <idno type="VID">118261</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77469)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118261)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 113:E733[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Brief remonstrance touching the pre-emption of tyn, and the coynages thereof.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1654]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Publication date from Wing.</note>
+                  <note>Annotation on Thomason copy: "Aprill [ye] 25:".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Coinage --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:118261:1" rendition="simple:additions"/>
+            <head>A Brief REMONSTRANCE TOUCHING The Pre-emption of TYN, and the Coynages thereof. <add>Aprill y<hi rend="sup">e</hi> 25.</add>
+            </head>
+            <p>
+               <seg rend="decorInit">A</seg>Mong the many Temptations that all Princes and Powers are expoſed to, this is none of the leaſt; their liableneſs to receive falſe Repreſentations of things upon the accompt of Profit and Advantage from Perſons, who for the moſt part, make uſe of ſuch pretences to promote ſome low or baſe intereſt of their own, or ſometimes do it ignorantly, not knowing or conſidering the whole, or the circumſtances which might compleat the truth of ſuch Relations; but ſo much as may hold forth the pretended profit, ſuppoſing that, would be grateful in it ſelf, and they may poſſibly ingratiate themſelves thereby.</p>
+            <p>By means of this Temptation, and ſuch Suggeſtions, it hath alſo been the unhappineſs of the poor Tynners of <hi>Cornwal,</hi> upon every new change of Government or Power in this Nation, which have been many within theſe few years, ſtill to be interrupted and called off from their hard labor and employment, to anſwer to the name and title of <hi>Preemption</hi> and <hi>Coyn<g ref="char:EOLhyphen"/>ages</hi> of their Tyn, as if, of all men, the poor Tynners were born ſlaves; and what were a Monopoly in the caſe of any other Native, were none in theirs: But being born in chains never to be ſhaken off, muſt intail them to poſterity, from generation to generation.</p>
+            <p>Now the endeavors of this Paper ſhall be to undeceive, and rightly to inform all ſuch as have onely looked into this buſineſs, through the wrong <hi>Mediums</hi> before mentioned, and to ſet <hi>Preemption</hi> and <hi>Coynages</hi> upon their true <hi>Baſis</hi> and Foundations: Which to do, it will be neceſſary to lay down,
+<list>
+                  <pb n="2" facs="tcp:118261:2"/>
+                  <item>Firſt, <hi>The Original of Preemption, its Foundation and Bounds.</hi>
+                  </item>
+                  <item>Secondly, <hi>What it is in it ſelf, and its own nature?</hi>
+                  </item>
+                  <item>Thirdly, <hi>What hath been the judgment of every Age concerning Pre<g ref="char:EOLhyphen"/>emption, when it was in uſe, ſince it had a name in</hi> England, <hi>and then we ſhall come to ſpeak of Coynages?</hi>
+                  </item>
+               </list>
+            </p>
+            <p>And for the firſt, It will not be denied by any, being ſo evident by divers antient Authors and Records, that there were Tynners and Tyn-workers before the Conqueſt, yea, in <hi>Auguſtus Caeſars</hi> time, as Judge <hi>Dodridge</hi> reports out of <hi>Diodorus Siculus,</hi> and therefore they owed not their liber<g ref="char:EOLhyphen"/>ty and privilege of digging for Tyn to any of the Kings of <hi>England,</hi> but that they had it <hi>ab initio,</hi> and by preſcription, which doth alſo appear by divers words in ſome of their antienteſt Charters, as <hi>Sicut ab antiquo conſuetudine &amp; ſicut hactenus uſitatum,</hi>
+               <note place="margin">Charter of K. <hi>John.</hi>
+               </note> 
+               <hi>&amp;c.</hi> But as it is acknowledged by all, the moſt ſpecious and probable Foundation of <hi>Preemption,</hi> is from that clauſe in the Charter granted to the Tynners by King <hi>Edward</hi> the firſt, <hi>Anno</hi> 32. of <hi>Niſi nos vel heredes noſtri ſtannum illud emere volu<g ref="char:EOLhyphen"/>mus:</hi> There being found no mention of the word in elder times, nor ever any grant of the <hi>Emption</hi> of Tyn, till after this Charter.</p>
+            <p>Now how far this clauſe may rationally extend, Firſt, it doth appear, That it amounted to no more than a benefit and preferment of buying the Tyn before any Subject at the price currant, or as the King and they could agree, as it is fully expreſſed in <hi>Brighams</hi> Pattent, when after neer Two hundred years ſleep it was revived in the Three and fortieth year of Queen <hi>Elizabeth,</hi> which hath been publickly and often acknowledged by the Council that heretofore pleaded for <hi>Preemption;</hi> and that this clauſe can<g ref="char:EOLhyphen"/>not well be extended further, may be proved by reaſon, and the very con<g ref="char:EOLhyphen"/>ſtruction which the words in that Charter will bear, which immediately precede this clauſe, which are theſe, <hi>Et quod omnes Stannatores noſtri Stann' illud ſic ponderatum licite vendere poſſint cuicunque voluerint in villis praedict' faciend' inde nobis Cunagium, &amp; alias conſuetudines debitas &amp; uſitatas, niſi nos vel heredes noſtri, &amp;c.</hi> By which they have leave to ſell their Tyn to whom they will, unleſs the King will buy it, and then it will follow, That he muſt buy as they can ſell which is, to whom they will, or that offers moſt; otherwiſe the firſt and laſt clauſe will ſeem to figh: one againſt another: And this will more fully appear from the nature of the word it ſelf, for he Privilege and Prerogative reſerved in this clauſe is <hi>Preemption.</hi> Now all <hi>Emption</hi> doth preſuppoſe a contract, and as there is a correlation between the Contractors and the Contractee; ſo in every Contract of <hi>Emption,</hi> the Law of Nations requires two things, Firſt, a voluntary and mutual conſent of two parties, the buyer and the ſeller; and
+<pb n="3" facs="tcp:118261:2"/>then the Tynner cannot be compelled to ſell his Tyn againſt his will. And ſecondly, a proportion of price to the value of the commodity, and then the Kings of <hi>England</hi> could never impoſe a price upon their Tyn, and conſequently could not take it at their own price, by any warrant in this clauſe.</p>
+            <p>And ſo much may ſuffice to clear the Original Foundation, and Bounds of <hi>Preemption.</hi>
+            </p>
+            <p>Secondly, It is alſo evident, that <hi>Preemption</hi> in this its Primitive Inſti<g ref="char:EOLhyphen"/>tution, and Native colour, is nevertheleſs a Monopoly, for that it ingroſſes the moſt ſtaple and native commodity of this Nation into particular hands (<hi>viz.</hi> the Kings Farmers,) who are to have the ſole managery thereof, to the prejudice not onely of all the other Merchants and people of the Na<g ref="char:EOLhyphen"/>tion, who have an equal right to the Emption, and Tranſportation thereof, but alſo of the Tynners themſelves, who cannot be Merchants of their own goods, but are bounded to a price which they muſt acquieſce in, du<g ref="char:EOLhyphen"/>ring the time of the Farm, though their Commodity come to be worth double in the Nation and abroad, during that time.</p>
+            <p>Thirdly, As to the judgment of every Age ſince that Charter, concern<g ref="char:EOLhyphen"/>ing <hi>Preemption</hi> when it was in uſe, it will appear, that though there have been but few Preſidents for it (not ſo many as for Ship-money) and but few Grants made of the Emption of Tyn by ſome of the Kings of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> and thoſe ſtill at the prizes which were then currant, and never im<g ref="char:EOLhyphen"/>poſed; (for they deſire it may be obſerved there never was, nor can be urged in any age, till of late, the impoſing of a price upon the Tynners goods) yet ſeldom or never were there any ſuch Grants, but they were from firſt to laſt complained of as oppreſſions, and ſo preſented in ſucceeding <hi>Parlia<g ref="char:EOLhyphen"/>ment;</hi> yea, commonly made null, and revoked by thoſe Kings that granted them, whereof you may take a ſhort view in theſe particular in<g ref="char:EOLhyphen"/>ſtances.</p>
+            <p>The firſt Grant found after this Charter of 32 <hi>Edw.</hi> 1. was made by his Son, <hi>Edward</hi> the Second, to <hi>Anthony de Peſſaign,</hi> which was revoked in the tenth year of his Reign, and left by him to the Barons of the <hi>Ex<g ref="char:EOLhyphen"/>chequer</hi> (who could be no Farmers) to do therein, <hi>Prout ante conceſſionem praedictam fieri ſolebat;</hi> yet the ſame year there was another Grant made, <hi>De emptione Stagminis,</hi> to one <hi>Abington,</hi> the Kings Butler, which was afterward revoked in the fourteenth year of his Reign, upon thoſe grounds, That it was <hi>in oppreſſionem populi, &amp; contra tenorem Charte pris ſui, &amp;c.</hi> And commands the Sheriff to make Proclamation throughout the County, that all Tynners that had any Tyn to ſell after the Coynage, and Coynage due paid, might ſell their Tyn <hi>(prout decet)</hi> without any impediment or
+<pb n="4" facs="tcp:118261:3"/>contradiction, according to the Charter of his Father, wherein there is both a conſtruction of that Charter, and the judgment of that time concerning <hi>Preemption.</hi>
+            </p>
+            <p>The next Grant that appears to be made, was 12 <hi>Edw.</hi> 3. to <hi>Richard Suthorp,</hi> and <hi>Moneron</hi> (upon pretence of the Kings moſt urgent occaſions for the defence, and ſaving of the Kingdom) to ſeize the Tyn of <hi>Cornwal</hi> and <hi>Devon</hi> into their hands for his uſe, yet ſo, that they ſhould give good ſecurity for it, according to ſuch a price as ſhould be agreed between them and the Tynners; yet the ſame year upon complaint to the Parliament held at <hi>Northampton,</hi> there was a revocation of their Grant, and a reſtaura<g ref="char:EOLhyphen"/>tion of the Tyn.</p>
+            <p>In the 21 year of <hi>Edw.</hi> 3. there was another Leaſe granted of the Tyn to one <hi>Tydeman</hi> of <hi>Lymbrick,</hi> which was complained of the ſame year in Parliament by the Merchants of <hi>England,</hi> for that the Tyn was ingroſſed by one man, which was wont to be ſold to all the Merchants of the King<g ref="char:EOLhyphen"/>dom; and receiving no ſatisfactory anſwer that Parliament,<note place="margin">Come it's ont fait de tout temps</note> that they might ſell their Tyn to any that would buy it, without the reſtraint of the Prince, as they had done heretofore at all times.</p>
+            <p>From <hi>Edward</hi> the third, down along to <hi>Edward</hi> the ſixth, there is not found or urged any one Grant or Leaſe of the Emption of Tyn, though in the long interval of that time, their Charters have been confirmed by all or moſt of the<note n="*" place="margin">
+                  <hi>Viz</hi> 8 R. 2. 1 Edw. 4. 3 Hen. 7. 27 Hen 7. 3 Hen. 8. 1 Edw. 6.</note> Kings that intervened; yea, twice by <hi>Henry</hi> the ſeventh, in one of whoſe Charters, <hi>viz.</hi> 27 <hi>Hen.</hi> 7. this clauſe concerning <hi>Preempti<g ref="char:EOLhyphen"/>on</hi> of <hi>Niſi nos, &amp;c.</hi> is wholly declined and omitted, though it be well known he was a Prince, wiſe and wary, and had<note n="*" place="margin">Empſon <hi>&amp;</hi> Dudley.</note> Inſtruments active enough to promote and execute what ever might advance his Revenue by any co<g ref="char:EOLhyphen"/>lourable pretence, from Prerogative or Law: And though 7 <hi>Edw.</hi> 6. there was then a Leaſe made to <hi>Gilbert Srockhouſe,</hi> of the <hi>Preemption</hi> of Tyn, with as much eaſineſs and reſpect to the Tynners as could be deſired, <hi>viz.</hi> That he ſhould give as much as any other Merchant had, or did give, and ſell but at a half peny profit in every pound to others, yet this was re<g ref="char:EOLhyphen"/>voked I Q. <hi>Mary,</hi> by the Lords of the Council, as prejudicial to the Tynners; ſo it continued free till the latter end of Q. <hi>Elizabeths</hi> Reign, and then a Leaſe was granted to <hi>Brigham</hi> and <hi>Wymes,</hi> for the firſt buying of Tyn, at ſuch prizes as they and the Tynners could agree, with the reſer<g ref="char:EOLhyphen"/>vation of 2000 l <hi>per annum</hi> Rent to Her Majeſty, and no more; yet this Leaſe was underſtood and comprehended by K. <hi>James,</hi> under the notion of a Monopoly, and an invaſion of the Liberty of the Subject (as well as ſome other Pattents) and ſo after long debate with his Council, revoked by Pro<g ref="char:EOLhyphen"/>clamation
+<pb n="5" facs="tcp:118261:3"/>in the firſt year of his Reign, as therein may at large appear: It is very true, that 5 <hi>Jacobi</hi> there being a glut of Tyn in the Countrey, more then the Kingdom, or Forein parts could take off, the Tynners eaſily con<g ref="char:EOLhyphen"/>ſented to a new Farm of their Tyn, for the price then currant, of 28 l. <hi>per</hi> 1000 w. to the Tynners, and 2000 l. to the King; but within a few years after, that the gain of the ſole Emption and Tranſportation of their Tyn came to be felt and underſtood by the Merchants, <hi>Preemption</hi> was advan<g ref="char:EOLhyphen"/>ced to 8000 l. <hi>per annum,</hi> and ſo grew higher and higher, as the times grew worſe, with ſome petty increaſe of price to the tynners, till it came to 14000 l. <hi>per annum,</hi> and more, and ſo continued till the expiration of the late Farmers Pattent, which was ſince the beginning of the great Parliament. And then the Tynners having ſerved out the time of their Bondage, and being no longer under that ſtate, able to preſerve themſelves and their Families from Ruine, addreſſed ſeveral Petitions to the Parlia<g ref="char:EOLhyphen"/>ment for Liberty; where after ſeveral years attendance upon reference to ſe<g ref="char:EOLhyphen"/>veral Committees, much oppoſition and conteſtation at length one of their Petitions was read in the Houſe, and referred to the Committee for the Navy; where <hi>Preemption</hi> was ſolemnly debated in the preſence of the <hi>Attorney General,</hi> and by the Vote of the whole Committee, judged to be a grievance, and to be taken away as will appear in the <hi>Records</hi> and <hi>Acts</hi> of that Committee, ſtill ready to be produced: By vertue whereof, and of the Act of Parliament for <hi>Exciſe</hi> or <hi>New Impoſt,</hi> the Tynners af<g ref="char:EOLhyphen"/>ter their Tyn ſtamped and coyned at their reſpective Blowing-houſes, ſell the ſame from time to time to their beſt Merchant, as they are inabled to do by Authority of the ſaid <hi>Act,</hi> paying the duty of <hi>Exciſe.</hi>
+            </p>
+            <p>And thus you have a ſhort view of the ſtate of <hi>Preemption,</hi> and what hath been done upon it from its Original to this day. There is one <hi>Objecti<g ref="char:EOLhyphen"/>on</hi> which needs anſwering before we come to <hi>Coynages,</hi> and that is this.</p>
+            <p>Object. 1. <hi>That if Tyn be out of Farm, and at liberty, the Tynner would be but a prey to every Merchant, and the Tynners by under<g ref="char:EOLhyphen"/>ſelling one another, would quickly deſtroy themſelves, and all Tyn-working.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> This Objection, though it be countenanced by wiſe men is yet a Myſtery, and it muſt neceſſarily argue a great weakneſs and want of com<g ref="char:EOLhyphen"/>mon diſcretion in the Tynner above other men, to diſpoſe of his goods to his beſt advantage; from whence this muſt proceed, otherwiſe why ſhould not the ſame miſchief and inconvenience befal thoſe that trade in Fiſh, and other not ſo choice Commodities as this, peculiar to this Kingdom, and that County alone.</p>
+            <p>But ſecondly, This inconvenience never followed but upon a glut of Tyn,
+<pb n="6" facs="tcp:118261:4"/>as is before ſaid, but there is no ground for this fear now, when the quan<g ref="char:EOLhyphen"/>tity is ſo ſmall, that the Manufactures of the Kingdom are able to imploy near the whole bulk of Tyn that is made in the year, as it is at preſent.</p>
+            <p>But thirdly, There is an anſwer to it, againſt which there is no riſing up, and that is from ſenſe, and ſix or ſeven years experience; and we uſe to ſay, <hi>Non eſt diſputandum de guſtu,</hi> There is no diſputing againſt ones ſenſe, and common experience, which can evidence, That in the various changes and obſtructions of Trade that have been within theſe few years, yet the Tynners have ſtill had a far better price, then ever they could have under a Farm, and for the moſt part 4 l. and above, and at this day 4 <abbr>l.</abbr> 8 s. <hi>per centum</hi> for their Tyn; yea, the Backs and Bellies of the poor Tynners, the preſent better condition of their Families, their Wives and Children, com<g ref="char:EOLhyphen"/>paring it with that miſery and pennury they endured formerly; are ſo many living monuments to upbraid the Tyranny of ſuch as impoſed <hi>Preemption,</hi> and evident Arguments from Senſe, how much Liberty is better then Bond<g ref="char:EOLhyphen"/>age, from which Senſe it is believed, they will not eaſily be drawn upon any pretences to leave their Freedom, and return into <hi>Egypt.</hi> And if all this were not ſufficient, you may have to evince this truth, the ſuffrage not onely of many Merchants and Factors in <hi>Cornwal,</hi> who get a livelihood by the buying and diſpoſition of this Commodity, which they dared not touch in the days of <hi>Preemption,</hi> but alſo of the <hi>Pewterers</hi> of <hi>London,</hi> who are not aſhamed to affirm, Their Company is 20000 l. better in eſtate ſince they had Freedom to buy at the firſt Market, then they were when Retail<g ref="char:EOLhyphen"/>ers from the Farmers. And ſo much for <hi>Preemption.</hi>
+            </p>
+            <p>Obj. <hi>But what may be ſaid, why Coynages may not be revived, and that antient due of</hi> 4 <hi>s.</hi> per centum, <hi>impoſed and paid for Coynage of their Tyn?</hi>
+            </p>
+            <p>To this it is anſwered, Firſt, That it is moſt evident there is no neceſſi<g ref="char:EOLhyphen"/>ty of reviving that old way of Coynages, ſince all the Tyn is, and hath been coyned and ſtamped for ſeveral years paſt at the Blowing-houſes, by the Officers for the <hi>Exciſe,</hi> with the <hi>Commonwealth Arms;</hi> by which, upon the payment of the <hi>Exciſe</hi> due, it becomes currant, and is ſaleable: And which way of Coyning is conceived to be far better, and more convenient than the old, as ſhall be cleared by and by.</p>
+            <p>And ſecondly, The State loſeth not the 4 s. <hi>per centum</hi> Coynage due, but hath the ſame Revenue paid in the <hi>Exciſe,</hi> and more. The payment whereof, it is believed the Tynners are content, ſhould be aſcertained upon them, if any urge the uncertainty or contingency of the <hi>Exciſe;</hi> but it is conceived, it will not be ſuitable to grounds of policy and prudence, to load that Native, and moſt ſtaple Commodity of this Nation,
+<pb n="7" facs="tcp:118261:4"/>with extraordinary and unneceſſary Taxes, which may diſcourage the Tynner from working Tyn, and put him upon Husbandry, and other im<g ref="char:EOLhyphen"/>ployments more profitable, as is done in <hi>Devon;</hi> ſeeing this would deſtroy all manner of Revenue, together with that antient Commodity peculiar to this Nation, and that County alone, and be an utter ruine to many thou<g ref="char:EOLhyphen"/>ſand Families in <hi>England,</hi> whoſe livelihoods depend on the manufactures thereof.</p>
+            <p>But thirdly, We humbly deſire that it may be conſidered upon what legal or equitable ground the old way of Coynage, or Coynage due, may be impoſed at preſent, ſeeing the Dutchy of <hi>Cornwal,</hi> of which this was a part, is diſſolved, the Mannors and Lands, yea, the Coynage-houſes ſold to ſeveral perſons; who have bought their Lands without Reſervation of any Priviledge or Immunities to the Tynner. Now it is well known, that be<g ref="char:EOLhyphen"/>fore, as well as in the Charter granted by the Kings of <hi>England</hi> to the Tyn<g ref="char:EOLhyphen"/>ners, there were not onely for the ſake of <hi>Preemption</hi> (for that was ſo in<g ref="char:EOLhyphen"/>conſiderable a benefit, as was not made uſe of for two hundred years) but for thoſe antient Coynage dues, the Tynners were to have a Lord-warden and Vice-warden, to determine all Cauſes ariſing in the <hi>Stannaries,</hi> and were not to be tried in any other Court, were to be free in all Markets and Fairs from any Toll, <hi>&amp;c.</hi> were to dig in any the Princes Waſtes or Moors with<g ref="char:EOLhyphen"/>out controul, were to bring and carry water-courſes over the Princes and other mens Lands, and many other privileges, which it cannot be thought the Purchaſers of thoſe Lands will now allow the Tynner: And then let it be ſeriouſly conſidered, whether it be equitable and juſt to return the Tynner to his Burthens, without his privileges, and to the payment of that, for which it is not poſſible for him to enjoy the conſideration.</p>
+            <p>Obj. <hi>But if the State would take off the Exciſe, were it not better to revive Coynages, and pay the dues that way?</hi>
+            </p>
+            <p>To this we anſwer, That we humbly conceive the old way of Coynage is not better at preſent, either as it reſpects the State; who firſt have the ſame Revenue by the <hi>Exciſe,</hi> without the charge of ſo many Officers and Incum<g ref="char:EOLhyphen"/>brances, as are incident to Coynages, (the beſt friends to Coynages, and this Objection, being either by thoſe that hope to have a ſhare in the Offices attending Coynages, or ſome Merchants that wiſh well to <hi>Preemption,</hi> and know the reviving of Coynages the next way to introduce it,) and ſecondly, who have it alſo with leſs danger of embezzling, for the <hi>Exciſe</hi> dues are to be paid, as ſoon as the Tyn is blown, and before it be carried from the Blow<g ref="char:EOLhyphen"/>ing-houſe, the Coynage due long after, not before the ſet times of Coyn<g ref="char:EOLhyphen"/>age, which may be a temptation to the Neceſſitous Tynner, in that inter<g ref="char:EOLhyphen"/>val, to ſell and embezzle his Tyn without Coynage, or paying any dues.</p>
+            <pb n="8" facs="tcp:118261:5"/>
+            <p> Secondly, Not better for the Tynner, who by the <hi>Exciſe</hi> may ſell his Tyn. and have it ſtamped and coyned as ſoon as it is blown, to ſupply his neceſſities; whereas the other way, he muſt ſtay till the ſolemn times of Coynage, and before that time to ſupply his neceſſity, be compelled to pawn, poſſibly, or ſell his tyn underhand, and under price to the Regrator. which Judge <hi>Dodridge</hi> in his Book of the Dutchy of <hi>Cornwal</hi> obſerves, was the miſery which the interval of Coynage expoſed the poor Tynner to, in thoſe days, and which is like to return upon them again, if they return to Coynages. Neither is it better for the Tynner in this reſpect, that by the <hi>Exciſe</hi> he pays nothing before his Tyn be ſold; but by the way of Coyn<g ref="char:EOLhyphen"/>ages he muſt pay the 4 s. for Coynage, though he borrow it, and cannot ſell his Tyn.</p>
+            <p>Object. <hi>But is there not an abſolute neceſſity of a Say-maſter to ſay and tare the Tyn, to keep that excellent Commodity from embaſing?</hi>
+            </p>
+            <p>To this it is anſwered, That though the Intereſt of the Tynner lie in having ſuch an Officer, as much as the Merchants, to whom the Tyn bought is at preſent ordinarily warranted by the Tynner; yet ſuch an Officer may be appointed, as with the conſent of the Tynner, ſo without Coynages; for as the Officer for the <hi>Exciſe</hi> hath and doth Coyn the Tyn at the Blow<g ref="char:EOLhyphen"/>ing-houſe, ſo may the Say-maſter ſay it there, with a like, and no more trouble.</p>
+            <p>To conclude therefore, <hi>We humbly deſire it may be conſidered, whe<g ref="char:EOLhyphen"/>ther it were not more agreeable to Justice and Policy, to leave the Tynner to a quiet proceeding in his Calling, in the obſervation of thoſe Laws and Rules, by which, for ſome years past, and at pre<g ref="char:EOLhyphen"/>ſent, he doth dispoſe of his own Goods, then <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> diſcompoſe him by ſetting on foot any Antiquated, or other ways, <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>rein if the Tynner ſhould not walk, or trangreſs, it were worth <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> enquiring, how he were juſtly puniſhable, ſeeing he governs himſelf by the Rule of an Act of Parliament, in force, and unrepealed; and is willingly con<g ref="char:EOLhyphen"/>tent to live in obedience thereunto, until the next Parliament take further courſe or order therein.</hi>
+            </p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
